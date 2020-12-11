@@ -1,0 +1,41 @@
+body {	
+	background-color: fff3e2;
+	color: black;
+	font-family: 'Texturina', serif;
+	font-size: 16px 
+   
+
+}
+h1,h2,h3{
+	color: #8db596 ; 
+	font-family: 'Cinzel', serif;
+	font-weight: 190
+	text-decoration: underline;
+
+}
+@media (max-width: 700px) {
+	.container {
+		width: 40px;
+		
+	}
+}
+}
+@media (max-width: 760px) {
+	.container {
+		width: 600px;
+		
+	}
+}
+
+}
+@media (max-width: 500px) {
+	.container {
+		width: 400px;
+		
+	}
+}
+	
+
+
+
+
